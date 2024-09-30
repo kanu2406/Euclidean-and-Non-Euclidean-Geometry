@@ -66,6 +66,3 @@ Through these geometries, we investigate concepts such as geodesics, spherical a
 
 This report was prepared as part of the **Professor Nagpaul Fellowship**, organized by the **Mathematics Society of St. Stephen’s College**, University of Delhi. The authors would like to extend their gratitude to **Dr. Jaspreet Kaur**, their guide and mentor, for her invaluable support and guidance throughout the process.  
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
